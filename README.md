@@ -1,1 +1,1 @@
-Building web applications for First Derm
+Building twitter bot for First Derm
