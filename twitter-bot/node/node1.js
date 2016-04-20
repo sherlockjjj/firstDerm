@@ -60,7 +60,7 @@ function tweetIt(text) {
 var stream = T.stream('user');
 
 //anytime someone follows me
-stream.on('follow', followed);
+//stream.on('follow', followed);
 //trigger response for being followed
 function followed(eventMsg) {
     var name = eventMsg.source.name;
@@ -89,7 +89,7 @@ function processing() {
 }
 
 //reply function
-stream.on('tweet', tweetEvent);
+//stream.on('tweet', tweetEvent);
 
 function tweetEvent(eventMsg) {
     //see tweets documentation

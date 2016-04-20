@@ -1,3 +1,15 @@
-# twitterbot_framework
 
-A basic framework for creating Twitter bots using Python 3 and [tweepy](http://www.tweepy.org). 
+
+Under Developing Skeleton of a Twitter bot using node.js that deploys multiple features. 
+
+Features Implemented:
+Text Generation
+Tweets Scheduling
+Image Uploading
+Keyword search and scrapping related tweets
+Event triggered retweet: Get Followed, Get @
+
+Features to be Implemented:
+Smart search
+Image Scrapping
+
